@@ -1,6 +1,8 @@
 # Robotics-Competition
 ## Line Following Robotics Competition for Computer Engineering Teacher's Association
 
+[View video](https://www.youtube.com/watch?v=BGdxd1lfhuA&t=31s)
+
 **Challenge 1:**
 In this challenge, the robot must follow a black line path that ends with a straight horizontal line. When the robot reaches this line, it must turn around and follow the path back to reach an identical horizontal line. To complete this challenge, the robot must follow this procedure twice.
  
